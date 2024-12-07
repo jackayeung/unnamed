@@ -1,0 +1,74 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python-specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# JavaScript/Node.js files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Virtual DJ settings or temporary files (if applicable)
+*.vdjcache
+*.xml.backup
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Build and output directories
+dist/
+build/
+out/
+
+# macOS Finder files
+.AppleDouble
+.LSOverride
+
+# Specific file types
+*.bak
+*.old
+*.tmp
+*.orig
+
+# Image/audio caching or processing files (for OCR, stem separation, etc.)
+*.jpg.cache
+*.png.cache
+*.wav.cache
+.cache/
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.out
+
+# Your own temporary or backup files
+*.bak
+*.swp
+
+# Specific for GitHub Pages (if using)
+public/
+.cache/

@@ -1,0 +1,4 @@
+pytesseract==0.3.10
+Pillow==9.4.0
+easyocr==1.6.2
+opencv-python-headless<=4.5.4.60
